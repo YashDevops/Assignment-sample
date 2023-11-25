@@ -24,7 +24,8 @@ A multistage Dockerfile has been created, and the final Docker image used is dis
 ```
 
 You will get an output 
-  .   ____          _            __ _ _
+ ```
+ .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
 ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
@@ -35,7 +36,7 @@ You will get an output
 2023-11-25T11:10:20.620Z  INFO 1 --- [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.9 with PID 1 (/app/app.jar started by root in /app)
 2023-11-25T11:10:20.631Z  INFO 1 --- [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
 2023-11-25T11:10:23.497Z  INFO 1 --- [           main] com.example.demo.DemoApplication         : Started DemoApplication in 4.452 seconds (process running for 7.387)
-
+```
 
 # Python Scripts
 
